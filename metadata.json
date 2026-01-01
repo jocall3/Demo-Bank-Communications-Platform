@@ -1,0 +1,5 @@
+{
+  "name": "Demo Bank Communications Platform",
+  "description": "Comprehensive dashboard for managing enterprise banking communications across Email, SMS, and Voice channels.",
+  "requestFramePermissions": []
+}
